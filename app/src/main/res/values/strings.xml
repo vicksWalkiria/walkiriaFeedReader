@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WalkiriaRSSFeedReader</string>
+    <string name="error">Could not get feed</string>
+</resources>
